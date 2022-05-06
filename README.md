@@ -13,5 +13,5 @@ Machine Learning - Black and White Image Colorization - Python
 <li>Autoencoder_Colorize.py</li>
 
 
-## Info
+# Info
 Run Autoencoder_Colorize.py to test the algorithm
