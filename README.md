@@ -5,7 +5,7 @@ https://github.com/bnsreenu/python_for_microscopists/blob/master/090a-autoencode
 https://github.com/erykml/video_games_colorization/blob/master/cnn_keras_test.ipynb  
 
 ## Examples
-![alt text](https://ibb.co/rc1Rbhj)
+![alt text](https://drive.google.com/file/d/1-1YpRRwIhPIsTH77KtLHWxcHaBH6Ziw1/view?usp=sharing)
 
 ## Project Setup 
 ### In order to run, the folder structure should look something like this:
