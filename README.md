@@ -5,6 +5,13 @@ Machine Learning - Black and White Image Colorization - Python
 ### In order to run, the folder structure should look something like this:
 <ul>
   <li>color_images</li>
+  <ul>
+    <li>8.jpg</li>
+    <li>9.jpg</li>
+    <li>12.jpg</li>
+    <li>312.jpg</li>
+    <li>lena.png</li>
+  </ul>
   <li>models</li>
   <ul>
     <li>model_150xepochs++.h5</li>
