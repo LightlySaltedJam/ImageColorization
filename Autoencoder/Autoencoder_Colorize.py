@@ -12,7 +12,7 @@ model = tf.keras.models.load_model('models/model_300xepochs_fullscape',
                                    custom_objects=None,
                                    compile=True)
 
-orig_img = imread('color_images/lena.png')
+orig_img = imread('color_images/12.png')
 plt_img = resize(orig_img, (256,256))
 plt.figure(), plt.imshow(plt_img), plt.title('Original image')
 plt.figure(), plt.imshow(rgb2gray(plt_img), cmap='gray'), plt.title('Grayscale image')
