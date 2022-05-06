@@ -2,7 +2,7 @@
 Machine Learning - Black and White Image Colorization - Python
 
 ## Project Setup 
-### In order to run, the folder setup should look like this:
+### In order to run, the folder structure should look something like this:
 <ul>
   <li>models</li>
   <ul>
