@@ -1,5 +1,6 @@
 # ImageColorization
-Machine Learning - Black and White Image Colorization - Python
+Machine Learning - Black and White Image Colorization - Python  
+Algorithm written with help from https://github.com/bnsreenu/python_for_microscopists/blob/master/090a-autoencoder_colorize_V0.2.py
 
 ## Project Setup 
 ### In order to run, the folder structure should look something like this:
