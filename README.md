@@ -6,13 +6,21 @@ https://github.com/erykml/video_games_colorization/blob/master/cnn_keras_test.ip
 
 ## Examples
 
-![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example1.PNG)
-![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example2.PNG)
-![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example4.PNG)
-![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example3.PNG)
+![image not found](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example1.PNG)
+![image not found](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example2.PNG)
+![image not found](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example4.PNG)
+![image not found](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example3.PNG)
 
-The model was trained on a dataset of mostly landscape images. Therefore it handles images of hills, mountains, skies and forests quite well, but struggles when we test it on pictures of people, for example.  
+The model was trained on a dataset of mostly landscape images with 90% accuracy. Therefore it handles images of hills, mountains, skies and forests quite well, but struggles when we test it on pictures of people, for example.  
 Proposed solution: use a bigger, more diverse dataset. Problem: training time increases
+
+## Next steps
+
+<ul>
+  <li>Data Visualization</li>
+  <li>Improve accuracy is possible</li>
+  <li>Implement a different solution using GANs</li>
+  <li>Compare current implementations with an established algorithm</li>
 
 ## Project Setup 
 ### In order to run, the folder structure should look something like this:
