@@ -8,7 +8,7 @@ Machine Learning - Black and White Image Colorization - Python
   <ul>
     <li>model_150xepochs++.h5</li>
     <li>model_300xepochs_fullscape.h5</li>
-  </ul><
+  </ul>
 <li>Autoencoder_Alg.py.py</li>
 <li>Autoencoder_Colorize.py</li>
 
