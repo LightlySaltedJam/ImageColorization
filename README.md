@@ -23,7 +23,7 @@ Proposed solution: use a bigger, more diverse dataset. Problem: training time in
   <li>Compare current implementations with an established algorithm</li>
 
 ## Project Setup 
-### In order to run, the folder structure should look something like this:
+### In order to run out of the box, the folder structure should look something like this:
 <ul>
   <li>color_images</li>
   <ul>
