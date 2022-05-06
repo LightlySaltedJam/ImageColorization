@@ -3,9 +3,12 @@ Machine Learning - Black and White Image Colorization - Python
 
 ## Project Setup 
 ### In order to run, the folder setup should look like this:
-model;  
-  model_150xepochs++.h5  
-  model_300xepochs_fullscape.h5  
+<ul>
+  <li>model</li>
+  <li><ul>
+    <li>model_150xepochs++.h5</li>
+    <li>model_300xepochs_fullscape.h5</li>
+  </ul></li>
 Autoencoder_Colorize.py
 
 ## Info
