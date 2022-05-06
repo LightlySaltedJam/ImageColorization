@@ -5,7 +5,14 @@ https://github.com/bnsreenu/python_for_microscopists/blob/master/090a-autoencode
 https://github.com/erykml/video_games_colorization/blob/master/cnn_keras_test.ipynb  
 
 ## Examples
+
 ![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example1.PNG)
+![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example2.PNG)
+![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example4.PNG)
+![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example3.PNG)
+
+The model was trained on database of mostly landscape images. Therefore it handles images of hills, mountains, skies and forests quite well, but struggles when we test it on pictures of people, for example.  
+Proposed solution: use a bigger, more diverse dataset. Problem: training time increases
 
 ## Project Setup 
 ### In order to run, the folder structure should look something like this:
