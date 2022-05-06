@@ -18,6 +18,7 @@ Proposed solution: use a bigger, more diverse dataset. Problem: training time in
 
 <ul>
   <li>Data Visualization</li>
+  <li>Data Augmentation</li>
   <li>Clean code</li>
   <li>Improve accuracy if possible</li>
   <li>Implement a different solution using GANs</li>
