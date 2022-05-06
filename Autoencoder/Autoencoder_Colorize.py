@@ -8,7 +8,7 @@ from skimage.color import rgb2lab, lab2rgb, rgb2gray
 
 plt.close('all')
 
-model = tf.keras.models.load_model('model/model_300xepochs_fullscape',
+model = tf.keras.models.load_model('models/model_300xepochs_fullscape',
                                    custom_objects=None,
                                    compile=True)
 
