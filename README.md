@@ -5,7 +5,7 @@ https://github.com/bnsreenu/python_for_microscopists/blob/master/090a-autoencode
 https://github.com/erykml/video_games_colorization/blob/master/cnn_keras_test.ipynb  
 
 ## Examples
-![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/Examples/Example1.PNG?raw=true)
+![alt text](https://github.com/LightlySaltedJam/ImageColorization/Examples/Example1.PNG?raw=true)
 
 ## Project Setup 
 ### In order to run, the folder structure should look something like this:
