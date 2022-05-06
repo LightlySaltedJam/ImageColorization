@@ -4,6 +4,9 @@ Code inspired from
 https://github.com/bnsreenu/python_for_microscopists/blob/master/090a-autoencoder_colorize_V0.2.py  
 https://github.com/erykml/video_games_colorization/blob/master/cnn_keras_test.ipynb  
 
+## Examples
+![alt text](https://ibb.co/rc1Rbhj)
+
 ## Project Setup 
 ### In order to run, the folder structure should look something like this:
 <ul>
@@ -24,8 +27,9 @@ https://github.com/erykml/video_games_colorization/blob/master/cnn_keras_test.ip
 <li>Autoencoder_Colorize.py</li>
 
 
-## Run Info
+## File Info
 
 <li>Autoencoder_Alg.py will run the machine learning algorithm and start training. **Do not run without setting up a dataset** </li>
 <li>Autoencoder_Colorize.py twill colorize a given image from the color_images folder using a set model. By default it will run model_300xepochs_fullscape.h5</li>
+
 
