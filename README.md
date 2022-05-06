@@ -11,7 +11,7 @@ https://github.com/erykml/video_games_colorization/blob/master/cnn_keras_test.ip
 ![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example4.PNG)
 ![alt text](https://github.com/LightlySaltedJam/ImageColorization/blob/main/Examples/Example3.PNG)
 
-The model was trained on database of mostly landscape images. Therefore it handles images of hills, mountains, skies and forests quite well, but struggles when we test it on pictures of people, for example.  
+The model was trained on a dataset of mostly landscape images. Therefore it handles images of hills, mountains, skies and forests quite well, but struggles when we test it on pictures of people, for example.  
 Proposed solution: use a bigger, more diverse dataset. Problem: training time increases
 
 ## Project Setup 
