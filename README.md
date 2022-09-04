@@ -1,8 +1,6 @@
 # Image Colorization using Deep Neural Networks
 Machine Learning - Black and White Image Colorization - Python  
-Code inspired from  
-https://github.com/bnsreenu/python_for_microscopists/blob/master/090a-autoencoder_colorize_V0.2.py  
-https://github.com/erykml/video_games_colorization/blob/master/cnn_keras_test.ipynb  
+
 
 ## Examples
 
